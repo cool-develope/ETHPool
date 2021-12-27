@@ -2,4 +2,5 @@
 .secret
 
 # node modules
-/node_modules
+node_modules/
+subgraph/eth_pool/node_modules/
