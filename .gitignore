@@ -1,0 +1,5 @@
+# secret file
+.secret
+
+# node modules
+/node_modules
